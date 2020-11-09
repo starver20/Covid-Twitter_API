@@ -1,8 +1,9 @@
 {
     "env": {
-        "apiKey": "LT4Si4VK0sQlkgGayAWhkw8HT",
-        "apiSecretKey":"ZGizzgp29yuHtMJYVEOEcDptmppceL7ymTU6YZKotswUJ9LgRh",
-        "accessToken":"940210510921736193-ZcJjS1sA337i0SpAcWxNcOUBWltNavy",
-        "accessTokenSecret":"ca5xnQx6O9kg4OmNxqlnDzhQPl3gYyv2D0Rpo4hk50oc3"
+        //enter your keys here
+        "apiKey": "",
+        "apiSecretKey":"",
+        "accessToken":"",
+        "accessTokenSecret":""
     }
 }
